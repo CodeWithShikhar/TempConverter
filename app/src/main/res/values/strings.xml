@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">temperatureConverter</string>
+    <string name="backgroundimge_des">aayush pandey</string>
+    <string name="temperature_converter">Temperature Converter</string>
+    <string name="eidt_hint">hehe</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celsius">Celcius</string>
+    <string name="textResult">Ans</string>
+</resources>
